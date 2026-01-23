@@ -1,6 +1,12 @@
 # PASOS PARA INSTALAR
-Seguir estos pasos:
+1. Seguir estos pasos:
 
 ```
-npm install
+yarn install
+```
+
+2. Ejecutar el comando
+
+```
+npm start
 ```
