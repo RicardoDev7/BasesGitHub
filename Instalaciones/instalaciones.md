@@ -10,3 +10,7 @@ yarn install
 ```
 npm start
 ```
+
+## NOTAS
+
+Tener en cuenta que omitiremos node_modules
