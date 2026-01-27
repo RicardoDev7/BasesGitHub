@@ -6,3 +6,4 @@
 * Robin
 * Wonder Woman
 * Aquaman
+* Nuevo heroe
